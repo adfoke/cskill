@@ -1,0 +1,4 @@
+interface:
+  display_name: "C Skill"
+  short_description: "C language development guidance and review checklist"
+  default_prompt: "Use this skill when working on C code, reviewing C changes, or summarizing C development risks and best practices."
